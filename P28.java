@@ -1,4 +1,4 @@
-class Main {
+class P28 {
     public static void main(String[] args) {
         String s = "banana";
         int count = 0;
